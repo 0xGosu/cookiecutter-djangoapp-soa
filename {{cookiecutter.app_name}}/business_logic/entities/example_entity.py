@@ -13,6 +13,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 {% if cookiecutter.models != "Comma-separated list of models" %}
+from ...models import {{ cookiecutter.models }}
 
 {% for model in cookiecutter.models.split(',') %}
 class {{ model.strip() }}Entity({{ model.strip() }}):
