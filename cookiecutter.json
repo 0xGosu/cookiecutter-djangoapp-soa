@@ -1,6 +1,6 @@
 {
   "full_name": "Your full name here",
-  "project_name": "Django Project",
+  "company_name": "Django Project",
   "app_name": "django_soa_app",
   "models": "Comma-separated list of models",
   "version": "0.1.0",

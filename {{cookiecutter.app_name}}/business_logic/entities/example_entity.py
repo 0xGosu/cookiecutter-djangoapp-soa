@@ -1,11 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-   
 #
-#  budget_entity.py
+#  example_entity.py
 #  
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.
-#  Copyright (c) {{ cookiecutter.project_name }}. All rights reserved.
+#  Copyright (c) {{ cookiecutter.company_name }}. All rights reserved.
 #
 from django.utils.translation import ugettext as __, ugettext_lazy as _
 import logging

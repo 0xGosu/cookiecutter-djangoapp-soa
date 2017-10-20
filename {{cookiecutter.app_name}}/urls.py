@@ -5,7 +5,7 @@
 #
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.
-#  Copyright (c) {{ cookiecutter.project_name }}. All rights reserved.
+#  Copyright (c) {{ cookiecutter.company_name }}. All rights reserved.
 #
 
 from django.conf.urls import url
