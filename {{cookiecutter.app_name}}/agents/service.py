@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-   
 #
-#  service1
+#  service.py
 #  
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.

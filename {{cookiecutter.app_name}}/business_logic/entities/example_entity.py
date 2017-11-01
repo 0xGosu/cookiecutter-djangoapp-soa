@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-   
 #
-#  budget_entity.py
+#  example_entity.py
 #  
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.

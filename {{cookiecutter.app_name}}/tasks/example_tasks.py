@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-   
 #
-#  calculate_budget_monthly.py
+#  example_tasks.py
 #  
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.

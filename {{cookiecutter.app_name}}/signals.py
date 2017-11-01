@@ -8,4 +8,4 @@
 #  Copyright (c) {{ cookiecutter.project_name }}. All rights reserved.
 #
 
-from event.signals import *
+from event.signals import *  # NOQA

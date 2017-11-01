@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-   
 #
-#  budget_serializer.py
+#  example_serializer.py
 #  
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.

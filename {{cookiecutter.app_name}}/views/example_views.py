@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #
-#  signals.py
+#  example_views.py
 #
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.
