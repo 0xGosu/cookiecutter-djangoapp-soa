@@ -4,5 +4,5 @@ A CookieCutter template for create django app that act as a Service in a SOA pro
 ``` bash
 brew install cookiecutter
 cd django_project_dir
-cookiecutter https://github.com/tranvietanh1991/cookiecutter-djangoapp-soa.git
+cookiecutter https://github.com/vinhntb/cookiecutter-djangoapp-soa.git
 ```
