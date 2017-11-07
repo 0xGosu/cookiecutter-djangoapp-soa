@@ -1,9 +1,9 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-   
+# -*- coding: utf-8 -*-
 #
-#  service.py
-#  
+#  __init__.py.py
+#
 #
 #  Created by {{ cookiecutter.full_name }} using cookiecutter.
 #  Copyright (c) {{ cookiecutter.project_name }}. All rights reserved.
-#
+

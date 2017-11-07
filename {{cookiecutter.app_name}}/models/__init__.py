@@ -8,4 +8,3 @@
 #  Copyright (c) {{ cookiecutter.project_name }}. All rights reserved.
 #
 
-from orm import *
